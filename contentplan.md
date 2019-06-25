@@ -3,5 +3,7 @@
 ---
 ## Section 1
 
-Content
+![A canopy of trees seen from below with the sun streaming through](./static/images/sample.jpg)
+
+Some content
 ---
